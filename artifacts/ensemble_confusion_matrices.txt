@@ -1,0 +1,16 @@
+
+jiehu-rima  (threshold=0.45)
+  TN=19053  FP=1447
+  FN=1279  TP=5408
+
+kaggle-arushna  (threshold=0.55)
+  TN=8  FP=5
+  FN=4  TP=11
+
+kaggle-yunji  (threshold=0.10)
+  TN=42  FP=32
+  FN=32  TP=1517
+
+POOLED  (threshold=0.45)
+  TN=19130  FP=1457
+  FN=2831  TP=5420

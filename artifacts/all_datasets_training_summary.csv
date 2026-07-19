@@ -1,0 +1,4 @@
+dataset,art_dir,val_f1_cnn,test_acc_rf,test_f1_macro_rf,emb_dim
+jiehu-rima,artifacts/jiehu-rima,0.8586506813488837,0.8844300584838342,0.8528990956438122,44
+kaggle-arushna,artifacts/kaggle-arushna,0.8095238095238095,0.6428571428571429,0.641025641025641,76
+kaggle-yunji,artifacts/kaggle-yunji,0.5688993902987356,0.9728897104128158,0.8126298776264143,76
